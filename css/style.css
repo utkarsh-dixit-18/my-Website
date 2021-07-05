@@ -1,0 +1,131 @@
+body
+{
+    color: #37413f;
+    margin: 1px;
+    text-align: center;
+    font-family: 'Otomanopee One', sans-serif;
+
+}
+
+h1
+{
+    font-family: 'Quantico', sans-serif; 
+    margin-top: 0;
+
+}
+
+h2
+{
+    padding-bottom: 10px ;
+}
+
+h3 
+{
+  font-family: 'Caveat', cursive;
+
+}
+
+p
+{
+    line-height: 2;
+}
+
+hr
+{
+    border: dotted #c2baba;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.DESIGN{ color: #0A81AB;}
+.DESIGN
+{
+    font-family: 'Amatic SC', cursive;
+}
+
+.top-container
+{
+    background-color:  #A2DBFA;
+} 
+
+.middle-container
+{
+    margin: 50px 0;
+}
+
+.intro
+{
+width: 30%;
+margin: auto;
+}
+
+.profile img
+{
+   height: 110px; 
+}
+
+.skills img
+{
+height: 60px;
+
+}
+
+h4
+{
+margin: 20px auto 60px;
+}
+
+.btn {
+    background: #1380d4;
+    background-image: -webkit-linear-gradient(top, #1380d4, #119a9c);
+    background-image: -moz-linear-gradient(top, #1380d4, #119a9c);
+    background-image: -ms-linear-gradient(top, #1380d4, #119a9c);
+    background-image: -o-linear-gradient(top, #1380d4, #119a9c);
+    background-image: linear-gradient(to bottom, #1380d4, #119a9c);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Otomanopee One', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #32e3e3;
+    background-image: -webkit-linear-gradient(top, #32e3e3, #2ba1c2);
+    background-image: -moz-linear-gradient(top, #32e3e3, #2ba1c2);
+    background-image: -ms-linear-gradient(top, #32e3e3, #2ba1c2);
+    background-image: -o-linear-gradient(top, #32e3e3, #2ba1c2);
+    background-image: linear-gradient(to bottom, #32e3e3, #2ba1c2);
+    text-decoration: none;
+  }
+
+  .bottom-container
+  {
+     margin: 60px auto 10px; 
+     background-color: #A2DBFA;
+     padding: 50px 0 20px;
+  }
+
+  a
+  {
+      color: #a5b6be;
+      font-family: 'Caveat', cursive;
+      margin: 10px 20px;
+      text-decoration: none;
+  }
+
+  a:hover
+  {
+    color: #304149;  
+  }
+
+  .copyright
+  {
+    color: #343e42;  
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
